@@ -3,7 +3,7 @@ South==0.8.2
 amqp==1.0.13
 anyjson==0.3.3
 billiard==2.7.3.32
-celery==3.0.22
+celery==5.2.2
 distribute==0.6.49
 django-celery==3.0.21
 django-debug-toolbar==0.9.4
